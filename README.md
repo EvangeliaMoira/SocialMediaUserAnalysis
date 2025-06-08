@@ -22,7 +22,7 @@ This repository contains a comprehensive analysis of social media users, focusin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SocialMediaUserAnalysis.git
+   git clone https://github.com/EvangeliaMoira/SocialMediaUserAnalysis.git
 
 2. Navigate to the project directory:
    cd SocialMediaUserAnalysis
